@@ -10,5 +10,6 @@ linea29: una de las etiquetas esta sin cerrar
 linea35: el orden de las etiquetas de cierre es incorrecto
 linea45: no hay etiqueta de cierre
 linea48: hay una etiqueta de cierre sin una de apertura
+linea88-89: las etiquetas de ambas lineas estan al reves
 linea91: hay una etiqueta de más y otra esta mal
 linea96: no hay etiqueta de cierre
